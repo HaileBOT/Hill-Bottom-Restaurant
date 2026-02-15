@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Menu.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Menu.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Contact.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Contact.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/home.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/home.html"
+        }
+    ]
+}

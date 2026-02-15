@@ -1,0 +1,14 @@
+{
+  "name": "my-hotel-backend",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "sqlite3": "^5.1.7"
+  }
+}
