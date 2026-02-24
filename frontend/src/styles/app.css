@@ -564,7 +564,7 @@ h1, h2, h3, h4, h5, h6, .site-header__brand, .chef__title, .about__title, .secti
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("./img/Home/Hero/hero-img.png");
+    background-image: url("/img/Home/Hero/hero-img.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
